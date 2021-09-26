@@ -1,0 +1,2 @@
+[1m[31mERROR   [0m log:test_info.py:39 你的用例2报错啦
+[32mINFO    [0m log:test_info.py:42 运行完辣

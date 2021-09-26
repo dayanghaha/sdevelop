@@ -1,0 +1,21 @@
+[ {
+  "uid" : "60f94ac86df30562",
+  "name" : "哈哈哈，用户信息得标题呀1",
+  "time" : {
+    "start" : 1631069019908,
+    "stop" : 1631069041003,
+    "duration" : 21095
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e631e71e33b468",
+  "name" : "哈哈哈，用户信息得标题呀1",
+  "time" : {
+    "start" : 1631068998798,
+    "stop" : 1631069019904,
+    "duration" : 21106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
