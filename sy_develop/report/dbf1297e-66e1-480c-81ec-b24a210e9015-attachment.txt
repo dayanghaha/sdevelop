@@ -1,0 +1,2 @@
+[32mINFO    [0m log:test_info.py:14 当前使用环境为pro
+[1m[31mERROR   [0m log:test_info.py:22 你的用例1报错啦

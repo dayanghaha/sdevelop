@@ -1,0 +1,35 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "查询用户得信息啊哈哈哈",
+    "children" : [ {
+      "name" : "哈哈哈，用户信息得标题呀1",
+      "uid" : "8e631e71e33b468",
+      "parentUid" : "b7d6b67dd3b8218bdce13ce283beb79f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631068998798,
+        "stop" : 1631069019904,
+        "duration" : 21106
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "哈哈哈，用户信息得标题呀1",
+      "uid" : "60f94ac86df30562",
+      "parentUid" : "b7d6b67dd3b8218bdce13ce283beb79f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631069019908,
+        "stop" : 1631069041003,
+        "duration" : 21095
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b7d6b67dd3b8218bdce13ce283beb79f"
+  } ]
+}

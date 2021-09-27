@@ -1,0 +1,21 @@
+[2021-09-08 11:03:22,666] INFO [test_1: test_info.py, 14] 当前使用环境为pro
+[2021-09-08 11:04:05,191] ERROR [test_2: test_info.py, 39] 你的用例2报错啦
+[2021-09-08 11:04:05,197] INFO [test_2: test_info.py, 42] 运行完辣
+[2021-09-08 11:54:42,659] INFO [test_1: test_info.py, 14] 当前使用环境为pro
+[2021-09-08 11:54:43,494] ERROR [test_2: test_info.py, 39] 你的用例2报错啦
+[2021-09-08 11:54:43,498] INFO [test_2: test_info.py, 42] 运行完辣
+[2021-09-08 11:55:47,053] INFO [test_1: test_info.py, 14] 当前使用环境为pro
+[2021-09-08 11:55:49,266] ERROR [test_2: test_info.py, 39] 你的用例2报错啦
+[2021-09-08 11:55:49,269] INFO [test_2: test_info.py, 42] 运行完辣
+[2021-09-08 12:33:49,544] INFO [test_1: test_info.py, 14] 当前使用环境为pro
+[2021-09-08 12:33:51,602] ERROR [test_2: test_info.py, 39] 你的用例2报错啦
+[2021-09-08 12:33:51,614] INFO [test_2: test_info.py, 42] 运行完辣
+[2021-09-08 15:46:05,018] INFO [test_1: test_info.py, 14] 当前使用环境为pro
+[2021-09-08 15:46:05,019] INFO [get_token: get_token.py, 31] url是 http://develop.shenyanai.com:30080/development-platform/auth/login
+[2021-09-08 15:46:05,429] INFO [get_token: get_token.py, 41] 登录入参data是 {"email": "fff@163.com", "password": "deepblue2020", "code": "qHcD", "uuid": "validate_code790c368473f847b7bcc1ce0488163cc7"}
+[2021-09-08 15:46:05,430] INFO [get_token: get_token.py, 42] 登录header是 {'content-type': 'application/json', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36'}
+[2021-09-08 15:46:05,713] INFO [get_token: get_token.py, 31] url是 http://develop.shenyanai.com:30080/development-platform/auth/login
+[2021-09-08 15:46:05,939] INFO [get_token: get_token.py, 41] 登录入参data是 {"email": "fff@163.com", "password": "deepblue2020", "code": "8VEM", "uuid": "validate_code92912424e3c349f399b851d277ff3432"}
+[2021-09-08 15:46:05,939] INFO [get_token: get_token.py, 42] 登录header是 {'content-type': 'application/json', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36'}
+[2021-09-08 15:46:06,027] ERROR [test_2: test_info.py, 39] 你的用例2报错啦
+[2021-09-08 15:46:06,030] INFO [test_2: test_info.py, 42] 运行完辣
