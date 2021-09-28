@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="236feb46-517a-4763-a545-62b507d91cb5" name="Default Changelist" comment="try1" />
+    <list default="true" id="236feb46-517a-4763-a545-62b507d91cb5" name="Default Changelist" comment="dfsdf">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -95,14 +97,22 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632732359229" />
-    <state x="-1459" y="164" key="SettingsEditor" timestamp="1632732841334">
+    <state x="-1732" y="82" key="MergeDialog" timestamp="1632739100541">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1459" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632732841334" />
-    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1632732921944">
+    <state x="-1732" y="82" key="MergeDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632739100541" />
+    <state x="-1325" y="280" key="MultipleFileMergeDialog" timestamp="1632739100548">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632732921944" />
+    <state x="-1325" y="280" key="MultipleFileMergeDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632739100548" />
+    <state x="-1447" y="162" key="SettingsEditor" timestamp="1632794737503">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1447" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632794737503" />
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1632794641803">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632794641803" />
     <state x="-1167" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632732011750">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
