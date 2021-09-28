@@ -162,7 +162,8 @@ print(aaa(a))"""
 
 
 
-a=["abca","abc","abca","abc","abcc","aa"]
+a=["abca","abc","abca","abc","abcc","aa","dffsd","dfsf"]
+
 a.sort(reverse=True)
 print(a)
 
