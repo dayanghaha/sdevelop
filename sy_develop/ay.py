@@ -161,11 +161,3 @@ print(aaa(a))"""
 
 
 
-
-a=["abca","abc","abca","abc","abcc","aa","dffsd","dfsf"]
-
-a.sort(reverse=True)
-print(a)
-
-print('这在尝试git哈哈哈hhhhhhhhhhhhhhhhhfgfggdgdfgfgh')
-
