@@ -161,3 +161,10 @@ print(aaa(a))"""
 
 
 
+
+a=12321
+a.sort(reverse=True)
+print(a)
+
+print('这在尝试git哈哈哈hhhhhhhhhhhhhhhhhfgfggdgdfgfgh')
+
