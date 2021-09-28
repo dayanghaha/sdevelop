@@ -162,7 +162,7 @@ print(aaa(a))"""
 
 
 
-a=["abca","abc","abca","abc","abcc","aa"]
+a=12321
 a.sort(reverse=True)
 print(a)
 
