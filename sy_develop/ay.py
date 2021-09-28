@@ -162,7 +162,7 @@ print(aaa(a))"""
 
 
 
-a=12321
+a=["as",'sad','dfs','dfsfs']
 a.sort(reverse=True)
 print(a)
 
